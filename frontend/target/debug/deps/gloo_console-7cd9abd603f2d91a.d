@@ -1,0 +1,12 @@
+/home/sarah/Downloads/text-editor/frontend/target/debug/deps/gloo_console-7cd9abd603f2d91a.rmeta: /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/lib.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/console_dbg.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/counter.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/externs.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/macros.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/timer.rs
+
+/home/sarah/Downloads/text-editor/frontend/target/debug/deps/libgloo_console-7cd9abd603f2d91a.rlib: /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/lib.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/console_dbg.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/counter.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/externs.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/macros.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/timer.rs
+
+/home/sarah/Downloads/text-editor/frontend/target/debug/deps/gloo_console-7cd9abd603f2d91a.d: /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/lib.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/console_dbg.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/counter.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/externs.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/macros.rs /home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/timer.rs
+
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/lib.rs:
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/console_dbg.rs:
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/counter.rs:
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/externs.rs:
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/macros.rs:
+/home/sarah/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.1/src/timer.rs:
